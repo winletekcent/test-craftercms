@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page</content-type>
+	<display-template>/templates/web/welcome.ftl</display-template>
+	<no-template-required>false</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dd65</objectGroupId>
+	<objectId>dd6575d7-9a69-af19-a551-c3aab8438b64</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>sample-1</folder-name>
+	<internal-name>Demo Sample 1</internal-name>
+	<navLabel>Demo Sample 1</navLabel>
+	<title_s>Demo Sample 1</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<content_o item-list="true">	<item>	<key>/site/components/00743ad0-96de-e579-1949-61aa407ade20.xml</key>
+	<value>Hero</value>
+	<include>/site/components/00743ad0-96de-e579-1949-61aa407ade20.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/679d29a7-a4df-86bd-b741-5c70e5ccd421.xml</key>
+	<value>test rte</value>
+	<include>/site/components/679d29a7-a4df-86bd-b741-5c70e5ccd421.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></content_o>
+	<createdDate>2023-11-01T07:20:03.713Z</createdDate>
+	<createdDate_dt>2023-11-01T07:20:03.713Z</createdDate_dt>
+	<lastModifiedDate>2023-11-01T07:21:44.563Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-01T07:21:44.563Z</lastModifiedDate_dt>
+</page>

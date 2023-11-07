@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page</content-type>
+	<display-template>/templates/web/welcome.ftl</display-template>
+	<no-template-required>false</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fa6e</objectGroupId>
+	<objectId>fa6ee395-e08c-c756-ce44-c05a7a93b241</objectId>
+	<internal-name>Demo</internal-name>
+	<navLabel>Demo</navLabel>
+	<title_s>Demo Page</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>demo</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<content_o item-list="true">	<item>	<key>/site/components/00743ad0-96de-e579-1949-61aa407ade20.xml</key>
+	<value>Hero</value>
+	<include>/site/components/00743ad0-96de-e579-1949-61aa407ade20.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/679d29a7-a4df-86bd-b741-5c70e5ccd421.xml</key>
+	<value>test rte</value>
+	<include>/site/components/679d29a7-a4df-86bd-b741-5c70e5ccd421.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/readme.xml</key>
+	<value>Readme</value>
+	<include>/site/components/readme.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></content_o>
+	<createdDate>2023-11-01T02:35:54.566Z</createdDate>
+	<createdDate_dt>2023-11-01T02:35:54.566Z</createdDate_dt>
+	<lastModifiedDate>2023-11-01T07:44:35.669Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-01T07:44:35.669Z</lastModifiedDate_dt>
+</page>

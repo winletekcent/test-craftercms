@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page</content-type>
+	<display-template>/templates/web/welcome.ftl</display-template>
+	<no-template-required>false</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>094e</objectGroupId>
+	<objectId>094ed35f-e98e-fd73-05eb-3d4c997b5883</objectId>
+	<internal-name>Product 1</internal-name>
+	<navLabel>Product 1</navLabel>
+	<title_s>Product 1</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>company-product-1</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<content_o item-list="true"/>
+	<createdDate>2023-11-01T07:07:24.348Z</createdDate>
+	<createdDate_dt>2023-11-01T07:07:24.348Z</createdDate_dt>
+	<lastModifiedDate>2023-11-01T07:07:24.348Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-01T07:07:24.348Z</lastModifiedDate_dt>
+</page>

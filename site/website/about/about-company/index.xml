@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/page</content-type>
+	<display-template>/templates/web/welcome.ftl</display-template>
+	<no-template-required>false</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>aa37</objectGroupId>
+	<objectId>aa370e99-19b2-43ca-3c36-2facfcb528f5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>about-company</folder-name>
+	<internal-name>About Company</internal-name>
+	<navLabel>About Company</navLabel>
+	<title_s>About Company</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<content_o item-list="true"/>
+	<createdDate>2023-11-01T07:06:40.908Z</createdDate>
+	<createdDate_dt>2023-11-01T07:06:40.908Z</createdDate_dt>
+	<lastModifiedDate>2023-11-01T07:06:40.908Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-11-01T07:06:40.908Z</lastModifiedDate_dt>
+</page>
